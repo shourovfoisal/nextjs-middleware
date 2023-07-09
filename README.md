@@ -1,3 +1,10 @@
+## Learning NextJS Middleware | Code Step By Step  
+__Youtube: Next JS tutorial in Hindi #15 | Middleware in next.js__  
+[https://www.youtube.com/watch?v=Oa0A-v_zkbk](https://www.youtube.com/watch?v=Oa0A-v_zkbk)
+<br />
+<hr />
+<hr />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
